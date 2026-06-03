@@ -22,3 +22,8 @@
 ### 修改: hermes-chat 相关 skills
 - **变更**: 更新了 PITFALLS.md，加入从 session 分析中提取的踩坑记录
 - **影响**: 下次开 hermes-chat 时自动加载，避免重复犯错
+
+### 创建: svg-icon-generator (v2.0)
+- **原因**: Agent 需要生成高质量 SVG icon
+- **内容**: 支持 Anthropic 风格（渐变填充、温暖中性色）和 Lucide 风格
+- **特点**: 色板系统、自检清单、路径生成技巧
